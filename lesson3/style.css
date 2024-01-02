@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+}
+
+.btn-block {
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

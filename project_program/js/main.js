@@ -1,5 +1,4 @@
 // RANDOM COLOR GENERATOR
-console.log('123')
 const buttonsColor = document.querySelectorAll('.btn-color')
 const javaScript = document.querySelector('#js-color')
 
